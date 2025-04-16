@@ -32,7 +32,7 @@ public static void main(String[] args) {
 		}
 
 		else
-			System.out.println("Opcao invalida");
+			System.out.println("Opcao inválida");
 		
 		leia.close();}
 	}
