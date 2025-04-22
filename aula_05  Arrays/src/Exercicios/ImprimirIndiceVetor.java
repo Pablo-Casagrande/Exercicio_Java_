@@ -20,7 +20,7 @@ public class ImprimirIndiceVetor {
 		
 		for (int indice = 0; indice < 10; indice++) {
 			if(numero == vetor[indice] ) {
-				System.out.println("O número " + numero + " está localizado no indice:  " + indice);
+				System.out.println("O número " + numero + " está localizado no Índice:  " + indice);
 				encontrado = true;
 			}
 		}

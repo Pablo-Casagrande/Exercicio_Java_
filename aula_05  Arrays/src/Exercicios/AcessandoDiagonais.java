@@ -6,12 +6,10 @@ public class AcessandoDiagonais {
 	     
 
         int[][] matriz = {
-            {  1,  2,  3},  
+            { 1, 2, 3},  
             { 4, 5, 6},   
-            { 7, 8, 9}   
-        };
+            { 7, 8, 9}   };
 
-        
         System.out.print("Elementos da Diagonal Principal: ");
         int somaPrincipal = 0;
         for (int linha = 0; linha < 3; linha++) {
