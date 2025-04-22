@@ -1,7 +1,7 @@
 package Exercicios;
 
-public class AcessandoDiagonais {
-	
+public class AcessandoDiogonal {
+
 	public static void main(String[] args) {
 	     
 
@@ -28,5 +28,3 @@ public class AcessandoDiagonais {
         System.out.println("\nSoma da Diagonal Secundária: " + somaSecundaria);
     }
 }
-
-
